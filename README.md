@@ -28,7 +28,11 @@ Details about the integration will be available soon on the Instructables page.
   - [Run the app](./README.md#run-the-app)
 
 ## App examples
-![example1](./assets/appScreens/1stPageFromSideMenu.png)
+![example1](./assets/appScreens/1stPage.png)
+![example2](./assets/appScreens/SideMenu.png)
+![example3](./assets/appScreens/1stPageFromSideMenu.png)
+![example4](./assets/appScreens/2ndPage.png)
+![example5](./assets/appScreens/2ndPageFromSideMenu.png)
 
 ## How to run the app?
 ### Environment
