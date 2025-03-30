@@ -10,7 +10,7 @@ This project encompasses two key components:
 Below is an overview of the main components prepared in the QML.
 
 
-| App Components | Description | Status | Module Main File | 
+| App Components | Description | Status |
 | ----------- | ----------- | ----------- |
 | Charts Module | Vizualization of the data on a graph | Done |
 | Data Module | Simple list view shows pulse, hrv and time data. | Done |
