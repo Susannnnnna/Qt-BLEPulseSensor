@@ -1,3 +1,5 @@
+![example1](./assets/appScreens/1st Page.png)
+
 <!--![app-screen]()-->
 # QML project for app with Bluetooth Low Energy & Pulse Sensor connection
 ## Objective
@@ -28,7 +30,7 @@ Details about the integration will be available soon on the Instructables page.
   - [Run the app](./README.md#run-the-app)
 
 ## App examples
-[example1](assets/appScreens/1st Page.png)
+![example1](./assets/appScreens/1st Page.png)
 
 ![example2]("assets/appScreens/2nd Page.png")
 ![example3](assets/appScreens/Side Menu.png)
