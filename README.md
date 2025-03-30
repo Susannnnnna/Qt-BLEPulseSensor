@@ -30,7 +30,7 @@ Details about the integration will be available soon on the Instructables page.
 ## App examples
 ![example1](assets/appScreens/1st Page.png)
 
-![example2](assets/appScreens/2nd Page.png)
+![example2]("assets/appScreens/2nd Page.png")
 ![example3](assets/appScreens/Side Menu.png)
 ![example4](assets/appScreens/1st Page from Side Menu.png)
 ![example5](assets/appScreens/2nd Page from Side Menu.png)
