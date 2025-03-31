@@ -2,7 +2,7 @@
 # QML project for app with Bluetooth Low Energy & Pulse Sensor connection
 ## Objective
 This project encompasses two key components:
-1. **Simple GUI App**: a user-friendly GUI that allow you to monitor your heart rate with extra knowledge about circulatory system and pulse
+1. **Simple GUI App**: a user-friendly GUI that allows you to monitor your heart rate with extra knowledge about the circulatory system and pulse
 2. **Bluetooth Low Energy & Pulse Sensor Integration**: data read from the heart rate sensor is sent to the application via the BLE module.
 
 ## Key results
@@ -12,9 +12,9 @@ Below is an overview of the main components prepared in the QML.
 
 | App Components | Description | Status |
 | ----------- | ----------- | ----------- |
-| Charts Module | Vizualization of the data on a graph | Done |
-| Data Module | Simple list view shows pulse, hrv and time data. | Done |
-| Knowledge Module | Knowledge about circulatory system and pulse. | In progress |
+| Charts Module | Visualization of the data on a graph | Done |
+| Data Module | Simple list view shows pulse, HRV, and time data. | Done |
+| Knowledge Module | Knowledge about the circulatory system and pulse. | In progress |
 
 ### **Pulse Sensor and BLE Integration**
 
