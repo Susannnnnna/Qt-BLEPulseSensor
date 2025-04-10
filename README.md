@@ -47,7 +47,6 @@ Details about the integration will be available soon on the Instructables page.
 - C++
 - CMake 
 - QML
-- SQLite (as a local database)
 
 ### Run the app
 Download files from GitHub
